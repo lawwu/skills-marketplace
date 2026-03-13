@@ -14,6 +14,21 @@ A [cookiecutter](https://github.com/cookiecutter/cookiecutter) template for crea
 
 ## Usage
 
+You can use the `/create-skills-marketplace` skill to create this skills-marketplace:
+
+```bash
+# install this marketplace
+claude plugin marketplace add lawwu/skills
+claude plugin install lawwu-skills@lawwu-skills
+```
+
+In `claude`:
+```
+/create-skills-marketplace
+```
+
+You can also install this by hand:
+
 ```bash
 # Install cookiecutter if you haven't already
 pip install cookiecutter
