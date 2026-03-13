@@ -19,7 +19,7 @@ A [cookiecutter](https://github.com/cookiecutter/cookiecutter) template for crea
 pip install cookiecutter
 
 # Generate a new skills marketplace
-cookiecutter gh:{{ cookiecutter_repo_placeholder }}/skills-marketplace
+cookiecutter gh:lawwu/skills-marketplace
 # or from local clone:
 cookiecutter path/to/skills-marketplace
 ```
