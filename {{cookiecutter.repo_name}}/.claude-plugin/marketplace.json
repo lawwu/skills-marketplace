@@ -1,0 +1,13 @@
+{
+  "name": "{{ cookiecutter.skill_marketplace_name }}",
+  "owner": {
+    "name": "{{ cookiecutter.author_name }}"
+  },
+  "plugins": [
+    {
+      "name": "{{ cookiecutter.plugin_name }}",
+      "description": "{{ cookiecutter.plugin_description }}",
+      "source": "./plugins/{{ cookiecutter.plugin_name }}"
+    }
+  ]
+}

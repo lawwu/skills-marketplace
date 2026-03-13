@@ -1,0 +1,9 @@
+{
+  "repo_name": "skills-marketplace",
+  "skill_marketplace_name": "{{ cookiecutter.repo_name }}",
+  "plugin_name": "{{ cookiecutter.repo_name }}",
+  "plugin_description": "Agent skills for Claude Code and other coding agents",
+  "author_name": "Your Name",
+  "github_username": "yourusername",
+  "license": ["MIT", "Apache-2.0", "GPL-3.0", "BSD-3-Clause", "Unlicense"]
+}
